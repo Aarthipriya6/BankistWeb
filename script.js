@@ -264,6 +264,7 @@ const slider = function () {
       );
     });
   };
+  createDots();
 
   const activateDot = function (slide) {
     document
